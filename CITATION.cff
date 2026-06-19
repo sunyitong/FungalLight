@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated SIGGRAPH Asia 2024 Art Papers publication."
+title: "FungiLifeGame"
+repository-code: "https://github.com/sunyitong/FungiLifeGame"
+url: "https://yitongsun.com/fungal-simulation"
+license: MIT
+authors:
+  - family-names: Sun
+    given-names: Yitong
+preferred-citation:
+  type: conference-paper
+  title: "Exploring Fungal Morphology Simulation and Dynamic Light Containment from a Graphics Generation Perspective"
+  authors:
+    - family-names: Wang
+      given-names: Kexin
+    - family-names: He
+      given-names: Ivy
+    - family-names: Li
+      given-names: Jinke
+    - family-names: Asadipour
+      given-names: Ali
+    - family-names: Sun
+      given-names: Yitong
+  collection-title: "SIGGRAPH Asia 2024 Art Papers"
+  publisher: ACM
+  year: 2024
+  start: 1
+  end: 8
+  doi: "10.1145/3680530.3695440"

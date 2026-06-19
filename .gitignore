@@ -1,2 +1,6 @@
 /target
 /screenshot
+target/
+.DS_Store
+.idea/
+*.log
