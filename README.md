@@ -58,6 +58,7 @@ docs/assets/       README presentation images
 - DOI: <https://doi.org/10.1145/3680530.3695440>
 - arXiv: <https://arxiv.org/abs/2409.05171>
 - Project page: <https://yitongsun.com/fungal-simulation>
+- Code repository: <https://github.com/sunyitong/FungalLight>
 
 ## Citation
 
