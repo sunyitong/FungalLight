@@ -4,4 +4,4 @@ Please do not open public issues containing private experimental material, unpub
 
 For sensitive reports, contact:
 
-<yitong.sun@network.rca.ac.uk>
+<hi@yitongsun.com>
