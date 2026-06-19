@@ -58,6 +58,7 @@ docs/assets/       README 图像资源
 - DOI：<https://doi.org/10.1145/3680530.3695440>
 - arXiv：<https://arxiv.org/abs/2409.05171>
 - 项目页：<https://yitongsun.com/fungal-simulation>
+- 仓库：<https://github.com/sunyitong/FungalLight>
 
 ## 引用
 
