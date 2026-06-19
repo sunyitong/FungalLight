@@ -50,7 +50,7 @@ src/
   systems.rs       growth, spawning, restriction, and light systems
   init_data.rs     simulation constants
 assets/images/     masks and visual assets
-docs/assets/       README and paper-derived presentation images
+docs/assets/       README presentation images
 ```
 
 ## Paper
