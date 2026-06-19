@@ -12,8 +12,6 @@ A Bevy/Rust cellular-automata simulation for fungal morphology exploration and l
 
 ![Fungal simulation and light containment](docs/assets/fungal-simulation-figure1.png)
 
-The figure above is cropped from the paper PDF for repository presentation.
-
 ## What It Does
 
 FungalLight simulates fungal spread on a 2D grid with local growth, resource consumption, restrictions, and light-like boundary feedback. It is a compact interactive prototype for exploring how fungal growth can be represented as a graphic time-series system.

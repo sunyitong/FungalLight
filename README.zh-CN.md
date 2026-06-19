@@ -12,8 +12,6 @@
 
 ![Fungal simulation and light containment](docs/assets/fungal-simulation-figure1.png)
 
-上图截取自论文 PDF，用作仓库展示首图。
-
 ## 项目功能
 
 FungalLight 在二维网格中模拟真菌扩张过程，包含局部生长、资源消耗、限制边界与类光照反馈。它可以作为一个紧凑的交互式原型，用于探索如何将真菌形态生长理解为 graphic time-series generation 问题。
@@ -52,7 +50,7 @@ src/
   systems.rs       生长、生成、边界与光反馈系统
   init_data.rs     模拟参数
 assets/images/     mask 与视觉资产
-docs/assets/       README 与论文图像展示资源
+docs/assets/       README 图像资源
 ```
 
 ## 论文
