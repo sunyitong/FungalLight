@@ -1,6 +1,6 @@
 # Simulation Model Notes
 
-FungiLifeGame represents fungal growth as local updates over a 2D grid.
+FungalLight represents fungal growth as local updates over a 2D grid.
 
 ## State
 

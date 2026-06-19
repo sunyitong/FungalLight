@@ -1,4 +1,4 @@
-# FungiLifeGame
+# FungalLight
 
 中文 | [English](README.md)
 
@@ -16,15 +16,15 @@
 
 ## 项目功能
 
-FungiLifeGame 在二维网格中模拟真菌扩张过程，包含局部生长、资源消耗、限制边界与类光照反馈。它可以作为一个紧凑的交互式原型，用于探索如何将真菌形态生长理解为 graphic time-series generation 问题。
+FungalLight 在二维网格中模拟真菌扩张过程，包含局部生长、资源消耗、限制边界与类光照反馈。它可以作为一个紧凑的交互式原型，用于探索如何将真菌形态生长理解为 graphic time-series generation 问题。
 
 完整论文进一步将学习到的真菌扩张模式与现实世界中的激光边界控制连接起来。本仓库聚焦 Rust/Bevy 模拟部分：网格状态、生长规则、可视化反馈与 restriction mask 驱动的形态约束。
 
 ## 快速开始
 
 ```bash
-git clone https://github.com/sunyitong/FungiLifeGame.git
-cd FungiLifeGame
+git clone https://github.com/sunyitong/FungalLight.git
+cd FungalLight
 cargo run --release
 ```
 

@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite the associated SIGGRAPH Asia 2024 Art Papers publication."
-title: "FungiLifeGame"
-repository-code: "https://github.com/sunyitong/FungiLifeGame"
+title: "FungalLight"
+repository-code: "https://github.com/sunyitong/FungalLight"
 url: "https://yitongsun.com/fungal-simulation"
 license: MIT
 authors:

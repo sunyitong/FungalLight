@@ -1,4 +1,4 @@
-# FungiLifeGame
+# FungalLight
 
 [中文](README.zh-CN.md) | English
 
@@ -16,15 +16,15 @@ The figure above is cropped from the paper PDF for repository presentation.
 
 ## What It Does
 
-FungiLifeGame simulates fungal spread on a 2D grid with local growth, resource consumption, restrictions, and light-like boundary feedback. It is a compact interactive prototype for exploring how fungal growth can be represented as a graphic time-series system.
+FungalLight simulates fungal spread on a 2D grid with local growth, resource consumption, restrictions, and light-like boundary feedback. It is a compact interactive prototype for exploring how fungal growth can be represented as a graphic time-series system.
 
 The broader paper couples learned fungal spread dynamics with real-world light containment. This repository contains the Rust/Bevy simulation side: grid state, growth rules, visual feedback, and restriction-mask driven morphology.
 
 ## Quick Start
 
 ```bash
-git clone https://github.com/sunyitong/FungiLifeGame.git
-cd FungiLifeGame
+git clone https://github.com/sunyitong/FungalLight.git
+cd FungalLight
 cargo run --release
 ```
 
